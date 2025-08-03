@@ -67,7 +67,7 @@ Install via the Arduino IDE Library Manager.
 
 ## 🧑‍🎓 Authors
 
-Developed as part of the **Embedded Systems** course – 2024/2025.
+Group project developed for the Embedded Systems course – 2024/2025.
 
 ## 📄 License
 
